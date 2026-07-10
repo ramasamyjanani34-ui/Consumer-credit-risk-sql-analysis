@@ -1,5 +1,10 @@
 # Consumer-credit-risk-sql-analysis
 SQL exploration of credit default risk using the Home Credit Default Risk dataset
+
+
+
+
+
 **Loan-to-income ratio:**
 I also tested whether borrowing a large loan relative 
 to income  predicts default. This also showed 
