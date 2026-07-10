@@ -1,7 +1,7 @@
 home-credit-risk-sql-analysis/
 ├── README.md         
 ├── queries.sql         (all SQL queries)
-└── findings.md      
+└── Images.md     
 
         --TOTAL APPLICATION AND DEFAULT--
 
