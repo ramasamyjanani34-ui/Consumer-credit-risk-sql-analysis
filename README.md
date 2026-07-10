@@ -49,8 +49,8 @@ still add value combined with other factors in a predictive model.
 
 ## Files
 
-- `queries.sql` — all 9 SQL queries used in this analysis, with comments
-- `README.md` — this file
+- `queries.sql` 
+- `README.md` 
 
 
 
